@@ -2,7 +2,7 @@
 
 This notebook is a DataCamp competition. You can find in the link: https://app.datacamp.com/workspace/w/9d9933bf-ba27-44e3-a6e5-b0a96e707d82.
 
-## The challenge
+## The challenge 📝
 Create a report that covers the following:
 - Which fruit has the highest vitamin C content? What are some other sources of vitamin C?
 - Describe the relationship between the calories and water content of a food item.
@@ -10,7 +10,7 @@ Create a report that covers the following:
 - A gram of fat has around 9 kilocalories, and a gram of protein and a gram of carbohydrate contain 4 kilocalories each. Fit a linear model to test whether these estimates agree with the data.
 - Analyze the errors of your linear model to see what could be the hidden sources of calories in food.
 
-## The data
+## The data 💾
 The source nutrition data of the competition was taken from USDA's FoodData Central website.
 This data contains the calorie content of 7,793 common foods, as well as their nutritional composition. Each row represents one food item, and nutritional values are based on a 100g serving. Here is a description of the columns:
 - FDC_ID: A unique identifier for each food item in the database.
